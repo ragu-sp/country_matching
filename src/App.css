@@ -94,6 +94,7 @@
 }
 .header h1{
   font-size: calc(22px + (32 - 22) * ((100vw - 320px) / (1600 - 320)));
+  font-family: ui-sans-serif;
 }
 .Showing_res_text_found, .Showing_res_text_notfound{
   font-weight: 700;
